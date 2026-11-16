@@ -1,5 +1,9 @@
+@file:OptIn(androidx.compose.animation.ExperimentalAnimationApi::class)
+
 package com.liquidglass.iptv
 
+
+import androidx.compose.animation.ExperimentalAnimationApi
 import android.os.Build
 import android.os.Bundle
 import androidx.activity.ComponentActivity
